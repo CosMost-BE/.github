@@ -58,7 +58,7 @@
 |:------:| :- |
 | Platform | React 18.2.0 |
 | WAS | Spring Boot 2.6.8 |
-| Build | Spring Boot 2.6.8 |
+| Build | Gradle |
 | DB | Mysql DB 8.0.29 |
 | 언어 | Java (JDK 11.0.15) </br>JavaScript |
 | IDE | Intellij IDEA </br>Visual Studio Code |
