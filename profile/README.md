@@ -4,8 +4,9 @@
 
 ## Description
 > 스파로스 아카데미 1기 2차 기업연계 프로젝트
-
 > 2022.09.13. ~ 2022.11.11.
+
+## [Notion](https://www.notion.so/cosMost-By-Team-NiceCream-e9dd51c66b0f4749917e041bd30087f2)
 
 ## About Project
 ⚒ Languages & Platforms
