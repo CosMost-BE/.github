@@ -1,14 +1,17 @@
 
 # cosMost - 팀 NiceCream (백엔드)
-> ### [공유하세요 당신만의 코스를 바로 지금](https://cosmost.vercel.app/) 
-### [Notion](https://pine-vicuna-b24.notion.site/CosMost-005ac4d51b0b491ab1c430746680c732)
+![image](https://user-images.githubusercontent.com/60650967/221760047-8f265c4a-a413-44ba-a4c1-7917f1a13ffe.png)
+
    
 　  
 ## Description
 > 스파로스 아카데미 1기 2차 기업연계 프로젝트
 
 > 2022.09.13. ~ 2022.11.11.
- 
+
+> [사이트 미리보기](https://cosmost.vercel.app/) 
+
+> [팀 소개 및 프로젝트 규칙 : Notion](https://pine-vicuna-b24.notion.site/CosMost-005ac4d51b0b491ab1c430746680c732)
   
   
   
