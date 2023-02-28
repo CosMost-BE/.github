@@ -1,7 +1,7 @@
 
 # cosMost - 팀 NiceCream (백엔드)
 > ### [공유하세요 당신만의 코스를 바로 지금](https://cosmost.vercel.app/) 
-### [Notion](https://www.notion.so/cosMost-By-Team-NiceCream-e9dd51c66b0f4749917e041bd30087f2)
+### [Notion](https://pine-vicuna-b24.notion.site/CosMost-005ac4d51b0b491ab1c430746680c732)
    
 　  
 ## Description
@@ -110,7 +110,7 @@
   
   
 　  
-## [ER Diagram](https://www.erdcloud.com/d/aqxBCJLZKuoT5f75K)
+## [ER Diagram](https://www.erdcloud.com/d/AKvSPbLnpGbdeWPYa)
 ![erd](https://user-images.githubusercontent.com/95178119/201016522-dcaf6ba2-d66d-4d54-b566-68c885b90d2c.png)
  
   
