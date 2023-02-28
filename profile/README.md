@@ -119,14 +119,17 @@
   
 　  
 ## [Requirements Specification](https://applebanana.atlassian.net/wiki/spaces/~6029c153c5a0430067bd79ce/pages/edit-v2/11370497?draftShareId=d8554bdb-9740-4c97-95ad-378816943069)
- 
+ ![Requirements Specification](https://user-images.githubusercontent.com/60650967/221733084-c4a1b7b5-8807-43da-9482-b404e8b5d627.JPG)
+
+
   
   
   
   
 　  
 ## [API Definition](https://docs.google.com/spreadsheets/d/1QWuBOwt4fPZEXaZ5XQ0yQyrJvEPdpJuf/edit?rtpof=true#gid=990061567)
- 
+ ![API Definition](https://user-images.githubusercontent.com/60650967/221732713-7104d13d-8ee5-4659-9fa0-e189db562777.jpg)
+
   
   
   
